@@ -1,0 +1,10 @@
+C:\Users\Ikram\Source\Repos\abc\wcfproject\FirstProjectWcfService6\FirstProjectWcfService6\bin\FirstProjectWcfService6.dll.config
+C:\Users\Ikram\Source\Repos\abc\wcfproject\FirstProjectWcfService6\FirstProjectWcfService6\bin\FirstProjectWcfService6.dll
+C:\Users\Ikram\Source\Repos\abc\wcfproject\FirstProjectWcfService6\FirstProjectWcfService6\bin\FirstProjectWcfService6.pdb
+C:\Users\Ikram\Source\Repos\abc\wcfproject\FirstProjectWcfService6\FirstProjectWcfService6\bin\EntityFramework.dll
+C:\Users\Ikram\Source\Repos\abc\wcfproject\FirstProjectWcfService6\FirstProjectWcfService6\bin\EntityFramework.SqlServer.dll
+C:\Users\Ikram\Source\Repos\abc\wcfproject\FirstProjectWcfService6\FirstProjectWcfService6\bin\EntityFramework.xml
+C:\Users\Ikram\Source\Repos\abc\wcfproject\FirstProjectWcfService6\FirstProjectWcfService6\bin\EntityFramework.SqlServer.xml
+C:\Users\Ikram\Source\Repos\abc\wcfproject\FirstProjectWcfService6\FirstProjectWcfService6\obj\Debug\FirstProjectWcfService6.csprojResolveAssemblyReference.cache
+C:\Users\Ikram\Source\Repos\abc\wcfproject\FirstProjectWcfService6\FirstProjectWcfService6\obj\Debug\FirstProjectWcfService6.dll
+C:\Users\Ikram\Source\Repos\abc\wcfproject\FirstProjectWcfService6\FirstProjectWcfService6\obj\Debug\FirstProjectWcfService6.pdb
